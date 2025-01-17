@@ -1,0 +1,6 @@
+Benchmarks	simSeconds	system.cpu.cpi	system.cpu.dcache.overallMissRate::total	system.cpu.icache.overallMissRate::total	system.l2.overallMissRate::total
+results/clk_1GHz/mem_DDR3_1600_8x8/401	0.164808	1.648084	0.014221	0.000062	0.271840
+results/clk_1GHz/mem_DDR3_1600_8x8/429	0.127536	1.275360	0.003297	0.011895	0.185986
+results/clk_1GHz/mem_DDR3_1600_8x8/456	0.127791	1.277907	0.001839	0.000217	0.073024
+results/clk_1GHz/mem_DDR3_1600_8x8/458	0.330650	3.306495	0.242807	0.017351	0.062573
+results/clk_1GHz/mem_DDR3_1600_8x8/470	0.246977	2.469774	0.061731	0.000090	0.999963
